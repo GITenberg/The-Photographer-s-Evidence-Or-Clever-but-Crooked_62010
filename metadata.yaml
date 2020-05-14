@@ -1,0 +1,27 @@
+_repo: The-Photographer-s-Evidence-Or-Clever-but-Crooked_62010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Nicholas (House name)
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/43953
+    - http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Popular literature'
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- GITenberg
+title: The Photographer's Evidence; Or, Clever but Crooked
+url: http://www.gutenberg.org/ebooks/62010
